@@ -1,0 +1,1 @@
+This is a project in the Ruby path of The Odin Project. It's goal is to make a Ruby method to sort an array using bubble sorting.
